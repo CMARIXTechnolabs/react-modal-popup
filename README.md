@@ -103,8 +103,10 @@ P.S. We’re going to publish more awesome examples on third party libraries, co
 
 **Stay Socially Connected**
 
-Get more familiar with our work by visiting few of our portfolio links. 
+Get more familiar with our work by visiting few of our portfolio links.
+
 [Portfolio](https://www.cmarix.com/portfolio.html) | [Facebook](https://www.facebook.com/CMARIXTechnoLabs/) | [Twitter](https://twitter.com/CMARIXTechLabs) | [Linkedin](https://www.linkedin.com/company/cmarix-technolabs-pvt-ltd-) | [Behance](https://www.behance.net/CMARIXTechnoLabs/) | [Instagram](https://instagram.com/cmarixtechnolabs/) | [Dribbble](https://dribbble.com/CMARIXTechnoLabs) | [Uplabs](https://www.uplabs.com/cmarixtechnolabs)
+
 Please don’t forget to follow them.
 
 ## License ##
