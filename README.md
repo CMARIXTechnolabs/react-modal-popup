@@ -101,7 +101,7 @@ We’d be really happy if you sent us links of your projects where you use our c
 
 P.S. We’re going to publish more awesome examples on third party libraries, coding standards, plugins and more  for all technologies. Stay tuned!
 
-**Stay Socially Connected**
+## Stay Socially Connected ##
 
 Get more familiar with our work by visiting few of our portfolio links.
 
